@@ -4,6 +4,13 @@ import (
 	"errors"
 )
 
+//triangle types
+const (
+	EqTriangleType  = "equilateral"
+	IsoTriangleType = "isosceles"
+	ScaTriangleType = "scalene"
+)
+
 const (
 	NotATriangleErrorMsg = "This is not a triangle"
 )

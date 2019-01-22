@@ -16,13 +16,6 @@ const (
 	SuccessOutput = `Current triangle is %s`
 )
 
-//triangle types
-const (
-	EqTriangleType  = "equilateral"
-	IsoTriangleType = "isosceles"
-	ScaTriangleType = "scalene"
-)
-
 func main() {
 
 	// prepare to parse arguments
