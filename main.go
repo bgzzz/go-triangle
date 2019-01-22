@@ -13,7 +13,7 @@ const (
 )
 
 const (
-	SuccessOutput = `Current triangle is %s`
+	SuccessOutput = "Current triangle is %s\n"
 )
 
 func main() {
